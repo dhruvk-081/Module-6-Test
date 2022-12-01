@@ -129,7 +129,7 @@ button:hover {
     margin-top: 20px;
   }
 }
-@media (max-width: 584px) {
+/*@media (max-width: 584px) {
   .main {
     max-width: 100%;
     height: 100vh;
@@ -181,4 +181,4 @@ button:hover {
     height: 40px;
     margin-top: 20px;
   }
-}
+}*/
